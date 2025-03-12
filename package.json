@@ -1,0 +1,11 @@
+{
+  "name": "question-generator",
+  "version": "1.0.0",
+  "description": "a tool for an accelerator manager to generate questions for group discussion",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "author": "lydiacho33",
+  "license": "MIT"
+}
